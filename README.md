@@ -10,7 +10,7 @@ Professor da Disciplina: Giuliano Bertoti
 
  
 
-Aluno: Leonardo Rodrigues Miranda Lins - 1460281813023
+Aluno: Leonardo Rodrigues Miranda Lins - 1460281813023 \
 Orientador: Giuliano Bertoti
 
  
