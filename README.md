@@ -1,2 +1,1 @@
-# tg_bd
-Trabalho de Graduação
+# Trabalho de Graduação
