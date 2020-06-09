@@ -30,9 +30,7 @@ Sedentarismo entre jovens.
 
 	É notória a proporção atual do sedentarismo. Segundo a Organização Mundial da Saúde (2018), 80% dos adolescentes não praticam atividade física com frequência e intensidade adequada para sua faixa etária.
 	O sedentarismo, segundo Barros, é considerado como a doença do próximo milênio, motivada pela falta de execícios físicos, decorrente dos confortos trazidos da vida moderna. Com a evolução da tecnologia e a tendência cada vez maior da troca de atividades ocupacionais que demandem algum gasto energético por facilidades automatizadas, o ser humano adota cada vez mais a lei do menor esforço reduzindo assim o consumo energético de seu corpo (BARROS, 2000).
-	São muitos os trabalhos científicos que demonstram o papel fundamental da atividade física evitando e ajudando a tratar doenças muito frequentes e graves como as doenças das coronárias,
-a hipertensão arterial, a diabetes melitus e algumas formas do câncer. (JOÃO, 2001, p.16).
- Com o avanço da tecnologia, portanto, a prática de esportes, sobretudo, os meios de diversão entre os mais jovens, tendem a ser naturalmente substituídos por entretenimento digital. Em contrapartida, softwares que envolvam a atividade física podem contribuir neste cenário, trazendo aos usuários uma divertida experiência, sem sair do nicho digital.
+	São muitos os trabalhos científicos que demonstram o papel fundamental da atividade física evitando e ajudando a tratar doenças muito frequentes e graves como as doenças das coronárias, a hipertensão arterial, a diabetes melitus e algumas formas do câncer. (JOÃO, 2001, p.16). Com o avanço da tecnologia, portanto, a prática de esportes, sobretudo, os meios de diversão entre os mais jovens, tendem a ser naturalmente substituídos por entretenimento digital. Em contrapartida, softwares que envolvam a atividade física podem contribuir neste cenário, trazendo aos usuários uma divertida experiência, sem sair do nicho digital.
 
 1.2 Proposta de solução
 
