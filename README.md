@@ -15,40 +15,44 @@ Orientador: Giuliano Bertoti
 
  
 
-Título do TG: Instrutor dev IOGA Mobile
+Título do TG: Instrutor Web de atividades físicas
 
-
-# 1ª Quinzena de maio
-
-# Introdução
-
-1.0 O problema
-Sedentarismo entre jovens.
-
-
-1.1 Motivação
+# 1. Introdução
 
 É notória a proporção atual do sedentarismo. Segundo a Organização Mundial da Saúde (2018), 80% dos adolescentes não praticam atividade física com frequência e intensidade adequada para sua faixa etária.
 O sedentarismo, segundo Barros, é considerado como a doença do próximo milênio, motivada pela falta de execícios físicos, decorrente dos confortos trazidos da vida moderna. Com a evolução da tecnologia e a tendência cada vez maior da troca de atividades ocupacionais que demandem algum gasto energético por facilidades automatizadas, o ser humano adota cada vez mais a lei do menor esforço reduzindo assim o consumo energético de seu corpo (BARROS, 2000).
 São muitos os trabalhos científicos que demonstram o papel fundamental da atividade física evitando e ajudando a tratar doenças muito frequentes e graves como as doenças das coronárias, a hipertensão arterial, a diabetes melitus e algumas formas do câncer. (JOÃO, 2001, p.16). Com o avanço da tecnologia, portanto, a prática de esportes, sobretudo, os meios de diversão entre os mais jovens, tendem a ser naturalmente substituídos por entretenimento digital. Em contrapartida, softwares que envolvam a atividade física podem contribuir neste cenário, trazendo aos usuários uma divertida experiência, sem sair do nicho digital.
 
-1.2 Proposta de solução
 
-Criar uma aplicação para dispositivos móveis que facilite a prática de ioga como exercício físico, aplicando inteligência artificial às imagens obtidas da câmera de um celular, com uma rede neural previamente treinada que identifique o que seria uma movimento correto, auxiliando o aluno durante a prática.
-Para a construção desta aplicação, serão utilizadas as seguintes tecnologias: \
+1.1 Objetivos do trabalho
+
+O objetivo geral deste trabalho é desenvolver uma aplicação utilizando conceitos de Deep learning que estimule a prática de exercícios físicos entre jovens.
+\
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
+• Desenvolver um protótipo com a biblioteca Posenet para identificação de poses previamente treinadas.
+• Criar uma interface de fácil utilização.
+• Propor cenários de melhoria aos treinos.
+\
+1.2. Conteúdo do Trabalho
+O presente trabalho está estruturado em seis Capítulos, cujo conteúdo é sucintamente apresentado a seguir:
+No Capítulo 2 é feita a fundamentação das tecnologias...
+O Capítulo 3 apresenta o desenvolvimento da solução...
+No Capítulo 4 são apresentados os resultados ...
+O Capítulo 5 apresenta as considerações finais  deste trabalho a partir da análise dos resultados obtidos...
+
+
+1.3 Metodologia
+
+Para o desenvolvimento do trabalho foram utilizadas as seguintes tecnologias: \
 •	PoseNet Model \
-•	TensorFlow Lite \
-•	Flutter \
+•	TensorFlow.js \
 •	Text to Speech \
 
-O principal algoritmo que é responsável pelo reconhecimento dos movimentos corporais e usa inicialmente o PoseNet - Trata-se de uma biblioteca para machine learning que detecta as poses criadas pelo usuário na aplicação. A sequência de poses detectadas serão usadas para validar se o usuário está realmente realizando os movimentos corretamente, auxiliando-o então com feedbacks.
-Para realizar a instrução ao usuário, será utilizado o Flutter Text to Speech, que trata-se de um plugin do framework Flutter, que gera através de uma instrução trazida do algoritmo uma frase falada artificialmente.
+O principal algoritmo responsável pelo reconhecimento dos movimentos corporais é o PoseNet. O PoseNet é um modelo para tratamento de imagem que pode ser usado para estimar a pose de uma pessoa em uma imagem ou vídeo, estimando onde estão as principais articulações do corpo. Este algorítmo tornará possível estimar a pose do usuário para a prática dos exercícios físicos. Será desenvolvida uma interface web para auxiliar o usuário durante os exercícios. 
 
-1.2.1 Modelos
-	
-Inicialmente o input deve ser tratado, por uma classificação de imagens. Para este tratamento será utilizado o modelo MobileNet.
-Após o tratamento da imagem, é necessário a utilização de um detector de objetos para ambientar a análise e evitar detecções indesejadas. Será utilizado o modelo Yolov2 Tiny para esta finalidade.
-Finalmente o PoseNet trará um esqueleto para viabilização do algoritmo. O conjunto destes modelos, gerará como produto um algoritmo que em tempo real é capaz de detectar os movimentos de um atleta de yoga.
+2. FUNDAMENTAÇÃO TÉCNICA
+
+
  
 ## Referências
 
@@ -57,37 +61,3 @@ BARROS, T.L. Exercício, saúde e desempenho físico. Ed.Atheneu, 1 edição, S�
 FERREIRA. E. Atividade física, lazer e qualidade de vida. IN. Anais: X Congresso Brasileiro de ciências do esporte, Goiãnia. Vol.ll, 1997.
 JOAO, MH. Sedentarismo: A hipocinesia nos dias atuais. UNICAMP, 2001.
 TENSORFLOW ORG. Vision model that can used to estimate the pose. < https://www.tensorflow.org/lite/models/pose_estimation/ >
-
-
-
-(coloque aqui tudo que você fez referente ao capítulo 1 no formato exato de BD)
-
- 
-
-# 2ª Quinzena de maio
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 2 no formato exato de BD)
-
- 
-
-# 1ª Quinzena de junho
- 
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD)
-
- 
-
-# 2ª Quinzena de junho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + crie um pasta chamada "Desenvolvimento" e coloque o início do código
-
- 
-
-# 1ª Quinzena de julho
-
- 
-
-(coloque aqui tudo que você fez referente ao capítulo 3 no formato exato de BD) + atualize a continuação do código
