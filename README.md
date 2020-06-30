@@ -51,7 +51,7 @@ Para o desenvolvimento do trabalho foram utilizadas as seguintes tecnologias: \
 
 O principal algoritmo responsável pelo reconhecimento dos movimentos corporais é o PoseNet. O PoseNet é um modelo para tratamento de imagem que pode ser usado para estimar a pose de uma pessoa em uma imagem ou vídeo, estimando onde estão as principais articulações do corpo. Este algorítmo tornará possível estimar a pose do usuário para a prática dos exercícios físicos. Será desenvolvida uma interface web para auxiliar o usuário durante os exercícios. 
 
-# 2. FUNDAMENTAÇÃO TÉCNICA
+# 2. Fundamentação Técnica
 
 
  
