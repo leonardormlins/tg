@@ -24,7 +24,7 @@ O sedentarismo, segundo Barros, é considerado como a doença do próximo milên
 São muitos os trabalhos científicos que demonstram o papel fundamental da atividade física evitando e ajudando a tratar doenças muito frequentes e graves como as doenças das coronárias, a hipertensão arterial, a diabetes melitus e algumas formas do câncer. (JOÃO, 2001, p.16). Com o avanço da tecnologia, portanto, a prática de esportes, sobretudo, os meios de diversão entre os mais jovens, tendem a ser naturalmente substituídos por entretenimento digital. Em contrapartida, softwares que envolvam a atividade física podem contribuir neste cenário, trazendo aos usuários uma divertida experiência, sem sair do nicho digital.
 
 
-1.1 Objetivos do trabalho
+## 1.1 Objetivos do trabalho
 
 O objetivo geral deste trabalho é desenvolver uma aplicação utilizando conceitos de Deep learning que estimule a prática de exercícios físicos entre jovens.
 \
@@ -32,8 +32,9 @@ Para a consecução deste objetivo foram estabelecidos os objetivos específicos
 • Desenvolver um protótipo com a biblioteca Posenet para identificação de poses previamente treinadas.
 • Criar uma interface de fácil utilização.
 • Propor cenários de melhoria aos treinos.
-\
-1.2. Conteúdo do Trabalho
+
+## 1.2. Conteúdo do Trabalho
+
 O presente trabalho está estruturado em seis Capítulos, cujo conteúdo é sucintamente apresentado a seguir:
 No Capítulo 2 é feita a fundamentação das tecnologias...
 O Capítulo 3 apresenta o desenvolvimento da solução...
@@ -41,7 +42,7 @@ No Capítulo 4 são apresentados os resultados ...
 O Capítulo 5 apresenta as considerações finais  deste trabalho a partir da análise dos resultados obtidos...
 
 
-1.3 Metodologia
+## 1.3 Metodologia
 
 Para o desenvolvimento do trabalho foram utilizadas as seguintes tecnologias: \
 •	PoseNet Model \
@@ -50,11 +51,11 @@ Para o desenvolvimento do trabalho foram utilizadas as seguintes tecnologias: \
 
 O principal algoritmo responsável pelo reconhecimento dos movimentos corporais é o PoseNet. O PoseNet é um modelo para tratamento de imagem que pode ser usado para estimar a pose de uma pessoa em uma imagem ou vídeo, estimando onde estão as principais articulações do corpo. Este algorítmo tornará possível estimar a pose do usuário para a prática dos exercícios físicos. Será desenvolvida uma interface web para auxiliar o usuário durante os exercícios. 
 
-2. FUNDAMENTAÇÃO TÉCNICA
+# 2. FUNDAMENTAÇÃO TÉCNICA
 
 
  
-## Referências
+# Referências
 
 Organização Mundial da Saúde. Disponível em < https://www.who.int/news-room/fact-sheets/detail/physical-activity>, Acessado em 25/09/2019.
 BARROS, T.L. Exercício, saúde e desempenho físico. Ed.Atheneu, 1 edição, São Paulo, Brasil, 1997.
