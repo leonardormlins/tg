@@ -28,10 +28,10 @@ São muitos os trabalhos científicos que demonstram o papel fundamental da ativ
 
 O objetivo geral deste trabalho é desenvolver uma aplicação utilizando conceitos de Deep learning que estimule a prática de exercícios físicos entre jovens.
 \
-Para a consecução deste objetivo foram estabelecidos os objetivos específicos:
-• Desenvolver um protótipo com a biblioteca Posenet para identificação de poses previamente treinadas.
-• Criar uma interface de fácil utilização.
-• Propor cenários de melhoria aos treinos.
+Para a consecução deste objetivo foram estabelecidos os objetivos específicos: \
+• Desenvolver um protótipo com a biblioteca Posenet para identificação de poses previamente treinadas. \
+• Criar uma interface de fácil utilização. \
+• Propor cenários de melhoria aos treinos. 
 
 ## 1.2. Conteúdo do Trabalho
 
@@ -41,13 +41,12 @@ O Capítulo 3 apresenta o desenvolvimento da solução...
 No Capítulo 4 são apresentados os resultados ...
 O Capítulo 5 apresenta as considerações finais  deste trabalho a partir da análise dos resultados obtidos...
 
-
 ## 1.3 Metodologia
 
 Para o desenvolvimento do trabalho foram utilizadas as seguintes tecnologias: \
 •	PoseNet Model \
 •	TensorFlow.js \
-•	Text to Speech \
+•	Text to Speech 
 
 O principal algoritmo responsável pelo reconhecimento dos movimentos corporais é o PoseNet. O PoseNet é um modelo para tratamento de imagem que pode ser usado para estimar a pose de uma pessoa em uma imagem ou vídeo, estimando onde estão as principais articulações do corpo. Este algorítmo tornará possível estimar a pose do usuário para a prática dos exercícios físicos. Será desenvolvida uma interface web para auxiliar o usuário durante os exercícios. 
 
