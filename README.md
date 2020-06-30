@@ -57,8 +57,8 @@ O principal algoritmo responsável pelo reconhecimento dos movimentos corporais 
  
 # Referências
 
-Organização Mundial da Saúde. Disponível em < https://www.who.int/news-room/fact-sheets/detail/physical-activity>, Acessado em 25/09/2019.
-BARROS, T.L. Exercício, saúde e desempenho físico. Ed.Atheneu, 1 edição, São Paulo, Brasil, 1997.
-FERREIRA. E. Atividade física, lazer e qualidade de vida. IN. Anais: X Congresso Brasileiro de ciências do esporte, Goiãnia. Vol.ll, 1997.
-JOAO, MH. Sedentarismo: A hipocinesia nos dias atuais. UNICAMP, 2001.
+Organização Mundial da Saúde. Disponível em < https://www.who.int/news-room/fact-sheets/detail/physical-activity >, Acessado em 25/09/2019. \
+BARROS, T.L. Exercício, saúde e desempenho físico. Ed.Atheneu, 1 edição, São Paulo, Brasil, 1997. \
+FERREIRA. E. Atividade física, lazer e qualidade de vida. IN. Anais: X Congresso Brasileiro de ciências do esporte, Goiãnia. Vol.ll, 1997. \
+JOAO, MH. Sedentarismo: A hipocinesia nos dias atuais. UNICAMP, 2001. \
 TENSORFLOW ORG. Vision model that can used to estimate the pose. < https://www.tensorflow.org/lite/models/pose_estimation/ >
