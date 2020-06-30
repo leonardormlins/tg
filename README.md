@@ -43,15 +43,11 @@ O Capítulo 5 apresenta as considerações finais  deste trabalho a partir da an
 
 ## 1.3 Metodologia
 
-Para o desenvolvimento do trabalho foram utilizadas as seguintes tecnologias: \
-•	PoseNet Model \
-•	TensorFlow.js \
-•	Text to Speech 
-
-O principal algoritmo responsável pelo reconhecimento dos movimentos corporais é o PoseNet. O PoseNet é um modelo para tratamento de imagem que pode ser usado para estimar a pose de uma pessoa em uma imagem ou vídeo, estimando onde estão as principais articulações do corpo. Este algorítmo tornará possível estimar a pose do usuário para a prática dos exercícios físicos. Será desenvolvida uma interface web para auxiliar o usuário durante os exercícios. 
+Utilizando principalmente o conceitos de redes neurais convolucionais será desenvolvida uma aplicação que estima a pose do usuário e apresenta em uma interface Web. Em formato de game a aplicação desafiará o usuário na execução de poses, em um esquema de pontuação.
 
 # 2. Fundamentação Técnica
 
+## 2.1 Rede Neural Convolucional
 
  
 # Referências
