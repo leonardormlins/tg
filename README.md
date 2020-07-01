@@ -30,7 +30,7 @@ O objetivo geral deste trabalho é desenvolver uma aplicação utilizando concei
 \
 Para a consecução deste objetivo foram estabelecidos os objetivos específicos: \
 • Desenvolver um protótipo com a biblioteca Posenet para identificação de poses previamente treinadas. \
-• Criar uma interface de fácil utilização. \
+• Criar uma interface Web. \
 • Propor cenários de melhoria aos treinos. 
 
 ## 1.2. Conteúdo do Trabalho
