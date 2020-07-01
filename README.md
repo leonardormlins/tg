@@ -15,7 +15,7 @@ Orientador: Giuliano Bertoti
 
  
 
-Título do TG: Instrutor Web de atividades físicas
+Título do TG: Instrutor Inteligente de atividades físicas
 
 # 1. Introdução
 
