@@ -47,7 +47,12 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
 
 # 2. Fundamentação Técnica
 
-## 2.1 Rede Neural Convolucional
+## 2.1 Aprendizagem profunda
+## 2.2 Redes Neurais Convolucionais (CNN)
+## 2.3 Aplicações Web
+## 2.4 ECMAScript 2015
+## 2.5 ml5.js
+
 
  
 # Referências
