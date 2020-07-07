@@ -60,7 +60,7 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
      _Figura 1. Diferenciando arquitetura de modelos de redes neurais simples e profundas._ 
      
 ## 2.2 Redes Neurais Convolucionais (CNN)
-  Redes Neurais Convolucionais recebem este nome por serem compostas de camadas convolucionais que processa as entradas considerando campos receptivos locais.  A principal aplicação de CNN's é no processamento de imagens pelo fato de a convolução permitir criar filtros considerando sua dimensão espacial.[6] 
+  Redes Neurais Convolucionais recebem este nome por serem compostas de camadas convolucionais que processam as entradas considerando campos receptivos locais.  A principal aplicação de CNN's é no processamento de imagens pelo fato de a convolução permitir criar filtros considerando sua dimensão espacial.[6] 
   ### 2.2.1 Camada Convolucional
    
 ## 2.3 Aplicações Web
