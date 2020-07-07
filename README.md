@@ -91,6 +91,6 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
 [3] FERREIRA. E. Atividade física, lazer e qualidade de vida. IN. Anais: X Congresso Brasileiro de ciências do esporte, Goiãnia. Vol.ll, 1997. \
 [4] JOAO, MH. Sedentarismo: A hipocinesia nos dias atuais. UNICAMP, 2001. \
 [5] TENSORFLOW ORG. Vision model that can used to estimate the pose. https://www.tensorflow.org/lite/models/pose_estimation/ \
-[6] IAN GOODFELLOW, YOSHUA BENGIO, and AARON COURVILLE. Deep Learning. MIT Press, 2016. Disponível em http://www.deeplearningbook.org
+[6] IAN GOODFELLOW, YOSHUA BENGIO, and AARON COURVILLE. Deep Learning. MIT Press, 2016. Disponível em http://www.deeplearningbook.org \
 [7] SIMON, Herbert A. (1955) “A behavioral model of rational choice”, The Quarterly Journal of Econo‑
-mics, vol. 69, n. 1, February: 99‑118, compiled in, and quoted from, Simon (1957: 241‑260). \
+mics, vol. 69, n. 1, February: 99‑118, compiled in, and quoted from, Simon (1957: 241‑260). 
