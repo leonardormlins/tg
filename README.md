@@ -50,10 +50,11 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
 
 ## 2.1 Machine Learning
  Segundo Hebert Alexander Simon[], aprendizado é qualquer processo pelo qual um sistema melhora sua performance pela experiência. No campo da computação a aprendizagem é formada através de um modelo matemático-computacional, que por meio de algoritmos, consegue adaptar-se e aprender de acordo com a experiência.\
- A Aprendizagem de máquina pode ser dividida em sub-campos: Aprendizado Supervisionado, Aprendizado por Reforço e Aprendizado Não-Supervisionado.\
+ A aprendizagem de máquina pode ser dividida em sub-campos: Aprendizado Supervisionado, Aprendizado por Reforço e Aprendizado Não-Supervisionado.\
  Em modelos de aprendizagem supervisionada, o aprendizado ocorre pela entrada de dados ao modelo com exemplos de entrada e saída(processo conhecido como treinamento). Dependendo da dispersão e dos pesos atribuidos ao treinamento o modelo será capaz de estimar a saída de uma nova entrada desconhecida.  
 ## 2.1 Métodos de Aprendizagem profunda
- Nos últimos anos a aprendizagem prof
+ Em métodos de aprendizagem profunda, é feita uma composição aninhada de modelos de aprendizagem dando a possibilidade de se resolver problemas mais complexos.[]
+ ![DeepLearning](https://www.institutodeengenharia.org.br/site/wp-content/uploads/2019/04/2.png)
 ## 2.2 Redes Neurais Convolucionais (CNN)
 ## 2.3 Aplicações Web
 ## 2.4 ECMAScript 2015
