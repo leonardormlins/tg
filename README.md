@@ -55,7 +55,7 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
 ## 2.1 Métodos de Aprendizagem profunda
  Em métodos de aprendizagem profunda, é feita uma composição aninhada de modelos de aprendizagem dando a possibilidade de se resolver problemas mais complexos.[6] \
  ![DeepLearning](https://www.institutodeengenharia.org.br/site/wp-content/uploads/2019/04/2.png) \
-     _Figura 1. Diferenciando arquitetura de modelos de redes neurais simples e profundas._ \
+     _Figura 1. Diferenciando arquitetura de modelos de redes neurais simples e profundas._ 
      
 ## 2.2 Redes Neurais Convolucionais (CNN)
   Redes Neurais Convolucionais recebem este nome por serem compostas de camadas convolucionais que processa as entradas considerando campos receptivos locais.  A principal aplicação de CNN's é no processamento de imagens pelo fato de a convolução permitir criar filtros considerando sua dimensão espacial.[6] 
@@ -65,7 +65,7 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
   Uma aplicação web é a junção de tecnologias que permitem através de um modelo cliente-servidor, pode disponibilizar via rede esta aplicação para qualquer cliente, desde que tenha um navegador de acesso. As aplicações web atuais são em maioria formadas pelo conjunto das tecnologias: \
   • Hyper Text Marcation Language (HTML) \
   • Cascading Style Sheets(CSS) \
-  • ECMAScript Programming Language (JavaScript) \
+  • ECMAScript Programming Language (JavaScript) 
   
   A aplicação criada para este trabalho segue o padrão Single Page Application, no lado cliente e API Restful no campo do servidor.
 
@@ -77,11 +77,11 @@ Utilizando principalmente o conceitos de redes neurais convolucionais será dese
  
   A aplicação desenvolvida utilizará da biblioteca ml5.js em detecção de pose de um indivíduo. A aplicação dispõe de uma interface de usuário que sugere a pose que deve ser feita, para então receber uma pontuação respectiva. Esta interface apresentará qual a pontuação geral do jogador bem como a sua imagem de fundo. \
   O ml5.js provê uma matriz do posicionamento x, y dos ombros do usuário, quadril, cabeça, braços e pernas, e em tempo real submete estes dados à rede já treinada da pose, retornando a classificação. \
-  Para auxiliar no treinamento da rede será utilizado o Teachable Machine desenvolvido pela Google. \
+  Para auxiliar no treinamento da rede será utilizado o Teachable Machine desenvolvido pela Google. O modelo então treinado é importado pela biblioteca ml5.js que fará a predição da pose dado input da câmera do usuário.
   
-  ![TeachableMachine](https://www.thurrott.com/wp-content/uploads/sites/2/2019/11/teachable-machine.jpg) \ 
- 
- 
+  ## 3.1 Treinamento da rede
+   
+  
 # Referências
 
 [1] Organização Mundial da Saúde. Disponível em https://www.who.int/news-room/fact-sheets/detail/physical-activity >, Acessado em 25/09/2019. \
